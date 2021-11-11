@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="931a4ced-f020-4bf3-9b35-131d59780462" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20ETgoHatKsegkDbNFTewtUeDCg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../central-repository" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="shared-indexes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\therealsangwoohan\coding\projects\ddrs-jws\server-wst" />
+      <recent name="\\wsl$\Ubuntu\home\therealsangwoohan\coding\projects\ddrs-jws\server-wst\src" />
+      <recent name="\\wsl$\Ubuntu\home\therealsangwoohan\coding\projects\ddrs-jws\server-kkl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Server (1)">
+    <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ws.Server" />
+      <module name="server-kkl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../server-kkl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ws.Server" />
+      <module name="server-wst" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../server-wst" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ws.Server" />
+      <module name="server-dvl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../server-dvl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ws.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UDPServer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UDPServer" />
+      <module name="central-repository" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../central-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.Server (2)" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="931a4ced-f020-4bf3-9b35-131d59780462" name="Changes" comment="" />
+      <created>1635608860651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635608860651</updated>
+      <workItem from="1635608862010" duration="13397000" />
+      <workItem from="1635774710130" duration="16377000" />
+      <workItem from="1636039871531" duration="4500000" />
+      <workItem from="1636046533831" duration="1624000" />
+      <workItem from="1636472083862" duration="2668000" />
+      <workItem from="1636566307316" duration="562000" />
+      <workItem from="1636567014363" duration="1258000" />
+      <workItem from="1636641462065" duration="291000" />
+      <workItem from="1636644191387" duration="812000" />
+      <workItem from="1636645745332" duration="800000" />
+    </task>
+    <servers />
+  </component>
+</project>

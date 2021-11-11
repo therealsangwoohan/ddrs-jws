@@ -1,0 +1,37 @@
+REQUEST: 
+Time: 2021/11/10 13:15:48
+date: 2021:11:10
+roomNumber: 123
+requestType: Create Room
+timeSlotsString: 09h-10h
+
+RESPONSE:
+statusOfOperation: success
+
+***
+
+REQUEST: 
+Time: 2021/11/10 13:16:49
+studentID: WSTS1234
+date: 2021:11:10
+requestType: Book Room
+campusName: 123
+timeslot: 09h-10h
+
+RESPONSE:
+statusOfOperation: success
+bookingID: DVL,123,2021:11:10,09h-10h
+
+***
+
+REQUEST: 
+Time: 2021/11/10 13:17:31
+studentID: WSTS1234
+requestType: Cancel Booking
+bookingID: DVL,123,2021:11:10,09h-10h
+
+RESPONSE:
+statusOfOperation: success
+
+***
+

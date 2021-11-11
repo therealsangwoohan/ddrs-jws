@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../central-repository/central-repository.iml" filepath="$PROJECT_DIR$/../central-repository/central-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client.iml" filepath="$PROJECT_DIR$/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server-dvl/server-dvl.iml" filepath="$PROJECT_DIR$/../server-dvl/server-dvl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server-kkl/server-kkl.iml" filepath="$PROJECT_DIR$/../server-kkl/server-kkl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server-wst/server-wst.iml" filepath="$PROJECT_DIR$/../server-wst/server-wst.iml" />
+    </modules>
+  </component>
+</project>
